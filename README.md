@@ -4,7 +4,7 @@
 
 ## Technologies Used
 
-- **Python**: The core programming language used for NLP and machine learning algorithms.
+- ![Python](https://img.shields.io/badge/Python-3.8%2B-blue): The core programming language used for NLP and machine learning algorithms.
 - **Scikit-Learn**, **NLTK**, **SpaCy**: Libraries for natural language processing and machine learning.
 - **Flask**: For building the web-based user interface.
 
