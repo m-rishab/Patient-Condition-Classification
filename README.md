@@ -4,9 +4,9 @@
 
 ## Technologies Used
 
-- ![Python](https://img.shields.io/badge/Python-3.8%2B-blue): The core programming language used for NLP and machine learning algorithms.
-- **Scikit-Learn**, **NLTK**, **SpaCy**: Libraries for natural language processing and machine learning.
-- **Flask**: For building the web-based user interface.
+- ![Python](https://img.shields.io/badge/Python-3.11%2B-blue): The core programming language used for NLP and machine learning algorithms.
+- ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-blue), ![NLTK](https://img.shields.io/badge/NLTK-3.8.1-blue), ![spaCy](https://img.shields.io/badge/spaCy-3.6-green): Libraries for natural language processing and machine learning.
+- ![Flask](https://img.shields.io/badge/Flask-2.3.3-green): For building the web-based user interface.
 
   ## Key Features
 
