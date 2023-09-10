@@ -15,6 +15,7 @@
 - **Drug Recommendation**: It provides drug recommendations tailored to the identified medical condition, taking into account factors like patient allergies and contraindications.
 
 - **User-Friendly Interface**: The application offers an intuitive user interface for seamless interaction, making it accessible to both healthcare providers and patients.
+- For login:
   # user name : admin@gmail.com           password: admin
 
   
